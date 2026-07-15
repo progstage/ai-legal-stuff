@@ -1,1 +1,3 @@
-# ai-legal-stuff
+## Opus Magnum AI Legal Stuff
+# Introduction
+This project ...
